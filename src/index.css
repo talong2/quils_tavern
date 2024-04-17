@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.imglogo{
+  width: 300px;
+  height: 300px;
+}
+
+.card-login{
+  background-color: #cbb39c;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 25px;
+}
+
+.padd{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.input-border{
+  border-radius: 50px;
+  border: 2px;
+}
+
+.custom-border{
+  border: 3px;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.input-style{
+  border-radius: 18px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
